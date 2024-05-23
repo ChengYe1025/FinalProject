@@ -10,10 +10,10 @@
 >
 
 ### 本份文件包含以下主題：
-- [x] 選擇Netflix動機
-- [x] Netflix-簡介
-- [x] 說明內容
-- [x] 撰寫心得
+- [✔️] 選擇Netflix動機
+- [✔️] Netflix-簡介
+- [✔️] 說明內容
+- [✔️]撰寫心得
 
 ## 選擇Netflix動機
 <img src="../FinalProject/img/Logo.jpg" width="60%">
