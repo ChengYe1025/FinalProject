@@ -141,4 +141,7 @@ Netflix 是全球領先的娛樂服務公司之一，在 190 多個國家/地區
 ### 五、SWOT分析圖
 <img src="../FinalProject/img/SWOT.jpg" width="80%">
 
+### 六、初步類別圖
+<img src="../FinalProject/img/初步類別圖.jpg" width="80%">
+
 ## 撰寫心得
