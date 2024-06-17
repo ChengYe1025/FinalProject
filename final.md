@@ -8,10 +8,10 @@
 >
 
 ### 本份文件包含以下主題：
-- [✔️] 選擇Netflix動機
-- [✔️] Netflix-簡介
-- [✔️] 說明內容
-- [✔️] 心得
+- [ X ] 選擇Netflix動機
+- [ X ] Netflix-簡介
+- [ X ] 說明內容
+- [ X ] 心得
 
 ## 選擇Netflix動機
 <img src="../FinalProject/img/Logo.jpg" width="60%">
@@ -65,10 +65,7 @@ Netflix 是全球領先的娛樂服務公司之一，在 190 多個國家/地區
 | 主持公司業務、決策公司的運作及經營 | 執行長 |
 | 主持股東大會、簽署股票及債券 | 董事長 |
 
-### 三、使用案例圖
-<img src="../FinalProject/img/使用案例圖1.jpg" width="80%">
-
-### 四、使用案例：
+### 三、使用案例：
 
 #### 1.消費者
 使用案例名稱：消費者
@@ -135,6 +132,9 @@ Netflix 是全球領先的娛樂服務公司之一，在 190 多個國家/地區
 <br>主要成功情節：主持公司日常業務
 <br>例外情節：公司運作有問題，需有相對應措施
 <br>其他需求: 無
+
+### 四、使用案例圖
+<img src="../FinalProject/img/使用案例圖1.jpg" width="80%">
 
 ### 五、SWOT分析圖
 <img src="../FinalProject/img/SWOT.jpg" width="80%">
